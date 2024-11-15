@@ -29,7 +29,7 @@ If you want to clone using git instead of pip, here's how you do it.
 
 * `git clone https://github.com/MarcoPalomo/slow-hugo-loris`
 * `cd slow-hugo-loris`
-* `python3 slowloris.py example.com`
+* `python3 slowloris.py my-server.example.com`
 
 
 ## Configuration options
